@@ -1,11 +1,14 @@
 # sds2024-anomaly-detection
-Darts Workshop SDS2024
 
-Prerequesities prior the workshop
-1. Install python 3+
-2. Create a virtual network / conda environment
+## Darts Workshop SDS2024
 
 
-## Preparation Workshop part 1:
-1. Download the dataset
-2. Install darts not yet published but latest versions from its github
+### Prerequisites for the workshop
+Follow the steps from below to get setup for the workshop.
+
+1. Run from Google Colab
+2. Clone the Workshop repo:
+   ```bash
+   git clone https://github.com/unit8co/sds2024-anomaly-detection.git
+   ```
+3. from inside the repo, run the workshop setup notebook `0_setup_workshop.ipynb`
