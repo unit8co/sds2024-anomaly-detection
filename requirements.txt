@@ -1,0 +1,5 @@
+darts @ git+https://github.com/unit8co/darts.git@master
+jupyterlab
+ipywidgets
+seaborn
+openpyxl
