@@ -11,7 +11,8 @@ docs/source/generated_api
 darts.egg-info/
 build/
 dist/
-examples/.ipynb_checkpoints/
+*.ipynb_checkpoints
+*data
 runs/
 .coverage*
 htmlcov
